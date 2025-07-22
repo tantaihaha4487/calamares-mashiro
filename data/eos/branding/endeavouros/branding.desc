@@ -16,13 +16,13 @@ sidebar: widget
 navigation: widget
 
 strings:
-    productName:         EndeavourOS
-    shortProductName:    EndeavourOS
+    productName:         EndeavourOS-Mashiro
+    shortProductName:    EndeavourOS-Mashiro
     version:             ${release_name} ${version}
     shortVersion:        ${version}
-    versionedName:       EndeavourOS ${release_name}
+    versionedName:       EndeavourOS-Mashiro ${release_name}
     shortVersionedName:  ${release_name}
-    bootloaderEntryName: EndeavourOS
+    bootloaderEntryName: EndeavourOS-Mashiro
 
 images:
     productLogo:         "endeavouros-icon.png"
